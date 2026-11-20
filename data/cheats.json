@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c1",
+    "name": "Invincibility (God Mode)",
+    "category": "Player",
+    "description": "Makes you completely invincible to damage for 5 minutes.",
+    "pc": "PAINKILLER",
+    "ps": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+    "xbox": "Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+    "phone": "1-999-724-654-5537"
+  },
+  {
+    "id": "c2",
+    "name": "Max Health & Armor",
+    "category": "Player",
+    "description": "Restores full health and gives full body armor.",
+    "pc": "TURTLE",
+    "ps": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+    "xbox": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+    "phone": "1-999-887-853"
+  },
+  {
+    "id": "c3",
+    "name": "All Weapons & Extra Ammo",
+    "category": "Weapons",
+    "description": "Grants high-tier assault rifles, SMGs, shotguns, RPG, sniper rifle, and grenades.",
+    "pc": "TOOLUP",
+    "ps": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+    "xbox": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+    "phone": "1-999-866-587"
+  },
+  {
+    "id": "c4",
+    "name": "Lower Wanted Level",
+    "category": "World",
+    "description": "Reduces wanted level by one star immediately.",
+    "pc": "LAWYERUP",
+    "ps": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+    "xbox": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+    "phone": "1-999-529-93787"
+  },
+  {
+    "id": "c5",
+    "name": "Raise Wanted Level",
+    "category": "World",
+    "description": "Increases wanted level by one star to trigger high-intensity police chases.",
+    "pc": "FUGITIVE",
+    "ps": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+    "xbox": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+    "phone": "1-999-384-48483"
+  },
+  {
+    "id": "c6",
+    "name": "Explosive Melee Attacks",
+    "category": "Combat",
+    "description": "Your punches and kicks cause catastrophic kinetic explosions.",
+    "pc": "HOTHANDS",
+    "ps": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+    "xbox": "Right, Left, A, Y, RB, B, B, B, LT",
+    "phone": "1-999-468-42637"
+  },
+  {
+    "id": "c7",
+    "name": "Explosive Bullets (Bang Bang)",
+    "category": "Combat",
+    "description": "Every bullet fired explodes on impact.",
+    "pc": "INCENDIARY",
+    "ps": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+    "xbox": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+    "phone": "1-999-462-363-4279"
+  },
+  {
+    "id": "c8",
+    "name": "Super Jump",
+    "category": "Player",
+    "description": "Hold the jump button to launch yourself into the stratosphere.",
+    "pc": "HOPTOIT",
+    "ps": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+    "xbox": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+    "phone": "1-999-467-8648"
+  },
+  {
+    "id": "c9",
+    "name": "Moon Gravity",
+    "category": "World",
+    "description": "Low gravity physics affecting vehicles and physics props.",
+    "pc": "FLOATER",
+    "ps": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+    "xbox": "Left, Left, LB, RB, LB, Right, Left, LB, Left",
+    "phone": "1-999-356-2837"
+  },
+  {
+    "id": "c10",
+    "name": "Spawn Buzzard Attack Chopper",
+    "category": "Vehicles",
+    "description": "Spawns a militarized Buzzard helicopter with heat-seeking missiles and miniguns.",
+    "pc": "BUZZOFF",
+    "ps": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+    "xbox": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+    "phone": "1-999-289-9633"
+  },
+  {
+    "id": "c11",
+    "name": "Spawn Comet Sports Car",
+    "category": "Vehicles",
+    "description": "Spawns the classic high-speed Pfister Comet.",
+    "pc": "COMET",
+    "ps": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+    "xbox": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+    "phone": "1-999-266-38"
+  },
+  {
+    "id": "c12",
+    "name": "Slow-Motion Aiming",
+    "category": "Combat",
+    "description": "Slows time down when aiming down sights (stacks up to 3 levels).",
+    "pc": "DEADEYE",
+    "ps": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+    "xbox": "X, LT, RB, Y, Left, X, LT, Right, A",
+    "phone": "1-999-332-3393"
+  },
+  {
+    "id": "c13",
+    "name": "Vice City Neon Skies Weather",
+    "category": "World",
+    "description": "Cycles through stormy, overcast, sunset haze, and neon Vice City rain.",
+    "pc": "MAKEITRAIN",
+    "ps": "R2, X, L1, L1, L2, L2, L2, Square",
+    "xbox": "RT, A, LB, LB, LT, LT, LT, X",
+    "phone": "1-999-625-348-7246"
+  },
+  {
+    "id": "c14",
+    "name": "Skyfall (Free Fall Spawning)",
+    "category": "Player",
+    "description": "Teleports you thousands of feet in the air for a high-altitude skydive.",
+    "pc": "SKYFALL",
+    "ps": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+    "xbox": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+    "phone": "1-999-759-3255"
+  }
+]

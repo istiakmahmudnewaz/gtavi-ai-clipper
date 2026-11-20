@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Job outputs, rendered clips & media
+jobs/*
+!jobs/.gitkeep
+*.mp4
+*.wav
+*.ass
+*.log
+
+# User & transient runtime data (ensures privacy for public repos)
+data/trends.json
+data/trends.md
+data/streams.json
+data/streams.md
+data/payouts.json
+data/models/*.onnx
+
+# Environment & OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini
